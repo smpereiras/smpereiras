@@ -184,7 +184,7 @@ while learning how to identify security weaknesses and protect digital environme
 <br/>
 <font color="#A78BFA">● PLANNED</font>
 <br/>
-<font color="#71717A">Repository: </font><font color="#A78BFA">coming_soon...</font>
+<font color="#71717A">Repository: </font><font color="#18181B">coming_soon...</font>
 </p>
 
 <br/>
@@ -196,7 +196,7 @@ while learning how to identify security weaknesses and protect digital environme
 <!-- GITHUB STATISTICS - GHOST PROTOCOL -->
 
 <h2 align="left">
-<img src="https://img.shields.io/badge/GITHUB%20STATISTICS-18181B?style=for-the-badge&logo=github&logoColor=71717A" />
+<img src="https://img.shields.io/badge/GITHUB%20STATISTICS-18181B?style=for-the-badge&logo=gnometerminal&logoColor=A78BFA" />
 </h2>
 
 <div align="center">
@@ -228,8 +228,8 @@ CONTRIBUTION HISTORY
 
 <div align="center">
 
-<a href="LINKEDIN_URL_AQUI">
-<img src="https://img.shields.io/badge/LINKEDIN-COMING%20SOON-18181B?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
+<a href="www.linkedin.com/in/samuelpereiras">
+<img src="https://img.shields.io/badge/LINKEDIN-SAMUEL%20PEREIRA-18181B?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/smpereiras">
