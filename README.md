@@ -228,8 +228,8 @@ CONTRIBUTION HISTORY
 
 <div align="center">
 
-<a href="[www.linkedin.com/in/samuelpereiras](https://www.linkedin.com/in/samuelpereiras/)">
-<img src="https://img.shields.io/badge/LINKEDIN-SAMUEL%20PEREIRA-18181B?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
+<a href="https://www.linkedin.com/in/samuelpereiras/">
+<img src="https://img.shields.io/badge/LINKEDIN-SAMUEL%20PEREIRA-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/smpereiras">
