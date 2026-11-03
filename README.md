@@ -215,6 +215,6 @@ while learning how to identify security weaknesses and protect digital environme
 
 <br/>
 
-GHOST PROTOCOL // CONTRIBUTION HISTORY
+CONTRIBUTION HISTORY
 
 </div>
