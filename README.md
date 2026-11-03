@@ -131,6 +131,7 @@ while learning how to identify security weaknesses and protect digital environme
 <img src="https://img.shields.io/badge/PROJECTS-18181B?style=for-the-badge&logo=gnometerminal&logoColor=A78BFA" />
 </h2>
 
+
 <p align="left">
 <code>root@smpereiras:~$ ls projects/</code>
 </p>
@@ -138,11 +139,11 @@ while learning how to identify security weaknesses and protect digital environme
 <br/>
 
 <p align="left">
-<img src="https://img.icons8.com/fluency/48/code.png" width="30" align="center"/>
+<img src="https://img.icons8.com/fluency/48/code.png" width="34" align="center"/>
 <strong><font color="#A78BFA"> PYTHON & AUTOMATION</font></strong>
-<br/>
-<sub>Scripts, programming and automation experiments.</sub>
-<br/>
+<br/><br/>
+<strong>Scripts, programming and automation experiments.</strong>
+<br/><br/>
 <font color="#A78BFA">● PLANNED</font>
 <br/>
 <font color="#71717A">Repository: </font><font color="#A78BFA">coming_soon...</font>
@@ -151,11 +152,11 @@ while learning how to identify security weaknesses and protect digital environme
 <br/>
 
 <p align="left">
-<img src="https://img.icons8.com/fluency/48/console.png" width="30" align="center"/>
+<img src="https://img.icons8.com/fluency/48/console.png" width="34" align="center"/>
 <strong><font color="#A78BFA"> LINUX & SYSTEMS</font></strong>
-<br/>
-<sub>Operating systems, command line and system administration.</sub>
-<br/>
+<br/><br/>
+<strong>Operating systems, command line and system administration.</strong>
+<br/><br/>
 <font color="#A78BFA">● PLANNED</font>
 <br/>
 <font color="#71717A">Repository: </font><font color="#A78BFA">coming_soon...</font>
@@ -164,11 +165,11 @@ while learning how to identify security weaknesses and protect digital environme
 <br/>
 
 <p align="left">
-<img src="https://img.icons8.com/fluency/48/network.png" width="30" align="center"/>
+<img src="https://img.icons8.com/fluency/48/network.png" width="34" align="center"/>
 <strong><font color="#A78BFA"> NETWORKING LABS</font></strong>
-<br/>
-<sub>Network fundamentals and communication protocols.</sub>
-<br/>
+<br/><br/>
+<strong>Network fundamentals and communication protocols.</strong>
+<br/><br/>
 <font color="#A78BFA">● PLANNED</font>
 <br/>
 <font color="#71717A">Repository: </font><font color="#A78BFA">coming_soon...</font>
@@ -177,14 +178,14 @@ while learning how to identify security weaknesses and protect digital environme
 <br/>
 
 <p align="left">
-<img src="https://img.icons8.com/fluency/48/security-checked.png" width="30" align="center"/>
+<img src="https://img.icons8.com/fluency/48/security-checked.png" width="34" align="center"/>
 <strong><font color="#A78BFA"> CYBERSECURITY LABS</font></strong>
-<br/>
-<sub>Security research, practical labs and controlled experiments.</sub>
-<br/>
+<br/><br/>
+<strong>Security research, practical labs and controlled experiments.</strong>
+<br/><br/>
 <font color="#A78BFA">● PLANNED</font>
 <br/>
-<font color="#71717A">Repository: </font><font color="#18181B">coming_soon...</font>
+<font color="#71717A">Repository: </font><font color="#A78BFA">coming_soon...</font>
 </p>
 
 <br/>
@@ -192,6 +193,7 @@ while learning how to identify security weaknesses and protect digital environme
 <p align="center">
 <sub>BUILDING IN PROGRESS</sub>
 </p>
+
 
 <!-- GITHUB STATISTICS - GHOST PROTOCOL -->
 
