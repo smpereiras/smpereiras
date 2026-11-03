@@ -141,7 +141,7 @@ while learning how to identify security weaknesses and protect digital environme
 <p align="left">
 <img src="https://img.icons8.com/fluency/48/code.png" width="34" align="center"/>
 <strong><font color="#A78BFA"> PYTHON & AUTOMATION</font></strong>
-<br/><br/>
+<br/>
 <strong>Scripts, programming and automation experiments.</strong>
 <br/><br/>
 <font color="#A78BFA">● PLANNED</font>
@@ -154,7 +154,7 @@ while learning how to identify security weaknesses and protect digital environme
 <p align="left">
 <img src="https://img.icons8.com/fluency/48/console.png" width="34" align="center"/>
 <strong><font color="#A78BFA"> LINUX & SYSTEMS</font></strong>
-<br/><br/>
+<br/>
 <strong>Operating systems, command line and system administration.</strong>
 <br/><br/>
 <font color="#A78BFA">● PLANNED</font>
@@ -167,7 +167,7 @@ while learning how to identify security weaknesses and protect digital environme
 <p align="left">
 <img src="https://img.icons8.com/fluency/48/network.png" width="34" align="center"/>
 <strong><font color="#A78BFA"> NETWORKING LABS</font></strong>
-<br/><br/>
+<br/>
 <strong>Network fundamentals and communication protocols.</strong>
 <br/><br/>
 <font color="#A78BFA">● PLANNED</font>
@@ -180,7 +180,7 @@ while learning how to identify security weaknesses and protect digital environme
 <p align="left">
 <img src="https://img.icons8.com/fluency/48/security-checked.png" width="34" align="center"/>
 <strong><font color="#A78BFA"> CYBERSECURITY LABS</font></strong>
-<br/><br/>
+<br/>
 <strong>Security research, practical labs and controlled experiments.</strong>
 <br/><br/>
 <font color="#A78BFA">● PLANNED</font>
