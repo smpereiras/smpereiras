@@ -196,43 +196,25 @@ while learning how to identify security weaknesses and protect digital environme
 <!-- GITHUB STATISTICS - GHOST PROTOCOL -->
 
 <h2 align="left">
-  <img src="https://img.shields.io/badge/GITHUB%20STATISTICS-18181B?style=for-the-badge&logo=github&logoColor=71717A" />
+<img src="https://img.shields.io/badge/GITHUB%20STATISTICS-18181B?style=for-the-badge&logo=github&logoColor=71717A" />
 </h2>
 
 <div align="center">
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=smpereiras&include_all_commits=true&show_icons=true&hide_border=true&bg_color=09090B&title_color=E4E4E7&text_color=A1A1AA&icon_color=71717A"
-        width="100%"
-      />
-    </td>
+<img src="https://github-stats-extended.vercel.app/api?username=smpereiras&include_all_commits=true&show_icons=true&hide_border=true&bg_color=09090B&title_color=E4E4E7&text_color=A1A1AA&icon_color=71717A" width="49%" />
 
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=smpereiras&layout=compact&langs_count=6&hide_border=true&bg_color=09090B&title_color=E4E4E7&text_color=A1A1AA"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=smpereiras&layout=compact&langs_count=6&hide_border=true&bg_color=09090B&title_color=E4E4E7&text_color=A1A1AA" width="49%" />
 
 <br/>
 
 <h3>
-  <font color="#71717A">CONTRIBUTION ACTIVITY</font>
+<font color="#71717A">CONTRIBUTION ACTIVITY</font>
 </h3>
 
-<img
-  src="https://raw.githubusercontent.com/smpereiras/smpereiras/output/github-snake.svg"
-  width="100%"
-  alt="GitHub Contribution Snake"
-/>
+<img src="https://raw.githubusercontent.com/smpereiras/smpereiras/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake" />
 
 <br/>
 
-<sub>GHOST PROTOCOL // CONTRIBUTION HISTORY</sub>
+GHOST PROTOCOL // CONTRIBUTION HISTORY
 
 </div>
