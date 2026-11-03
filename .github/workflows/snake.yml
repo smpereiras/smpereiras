@@ -1,3 +1,4 @@
+
 name: Generate Contribution Snake
 
 on:
@@ -21,7 +22,7 @@ jobs:
         with:
           github_user_name: smpereiras
           outputs: |
-            dist/github-snake.svg?color_snake=%23E4E4E7&color_dots=%2318181B,%233F3F46,%2371717A,%23A1A1AA,%23E4E4E7
+            dist/github-snake.svg?color_snake=%23A78BFA&color_dots=%2318181B,%233B0764,%236D28D9,%23A78BFA,%23C4B5FD
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
