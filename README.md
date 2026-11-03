@@ -79,8 +79,8 @@ while learning how to identify security weaknesses and protect digital environme
 
 </div>
 
-<p>
-<sub>Always learning. Always improving.</sub>
+<p align="center">
+<strong><font color="#A78BFA">Always learning. Always improving.</font></strong>
 </p>
 
 
@@ -191,7 +191,7 @@ while learning how to identify security weaknesses and protect digital environme
 <br/>
 
 <p align="center">
-<sub>BUILDING IN PROGRESS</sub>
+<strong><font color="#A78BFA">BUILDING IN PROGRESS</font></strong>
 </p>
 
 
