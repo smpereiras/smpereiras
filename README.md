@@ -132,7 +132,7 @@ while learning how to identify security weaknesses and protect digital environme
 </h2>
 
 <p align="left">
-<code>root@ghost:~$ ls projects/</code>
+<code>root@smpereiras:~$ ls projects/</code>
 </p>
 
 <br/>
@@ -216,5 +216,42 @@ while learning how to identify security weaknesses and protect digital environme
 <br/>
 
 CONTRIBUTION HISTORY
+
+</div>
+
+
+<!-- FOOTER - GHOST PROTOCOL -->
+
+<h2 align="left">
+<img src="https://img.shields.io/badge/CONTACT%20%26%20NETWORK-18181B?style=for-the-badge&logo=gnometerminal&logoColor=A78BFA" />
+</h2>
+
+<div align="center">
+
+<a href="LINKEDIN_URL_AQUI">
+<img src="https://img.shields.io/badge/LINKEDIN-COMING%20SOON-18181B?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/smpereiras">
+<img src="https://img.shields.io/badge/GITHUB-SMPEREIRAS-18181B?style=for-the-badge&logo=github&logoColor=A78BFA" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:SEU_EMAIL_AQUI">
+<img src="https://img.shields.io/badge/EMAIL-COMING%20SOON-18181B?style=for-the-badge&logo=gmail&logoColor=A78BFA" />
+</a>
+
+<br/><br/>
+
+<p>
+<strong>Always learning. Always evolving.</strong>
+</p>
+
+<p>
+<sub>© 2026 Samuel Pereira</sub>
+</p>
+
+<p>
+<sub><font color="#A78BFA">root@smpereiras:~$ exit</font></sub>
+</p>
 
 </div>
