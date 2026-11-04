@@ -131,7 +131,6 @@ while learning how to identify security weaknesses and protect digital environme
 <img src="https://img.shields.io/badge/PROJECTS-18181B?style=for-the-badge&logo=gnometerminal&logoColor=A78BFA" />
 </h2>
 
-
 <p align="left">
 <code>root@smpereiras:~$ ls projects/</code>
 </p>
@@ -139,14 +138,25 @@ while learning how to identify security weaknesses and protect digital environme
 <br/>
 
 <p align="left">
-<img src="https://img.icons8.com/fluency/48/code.png" width="34" align="center"/>
-<strong><font color="#A78BFA"> PYTHON & AUTOMATION</font></strong>
+<img src="https://img.icons8.com/fluency/48/security-checked.png" width="34" align="center"/>
+<strong><font color="#A78BFA"> PASSWORD AUDIT</font></strong>
 <br/>
-<strong>Scripts, programming and automation experiments.</strong>
-<br/><br/>
-<font color="#A78BFA">● PLANNED</font>
+<strong>Password Security Analyzer</strong> <br/>
+<img src="https://img.shields.io/badge/●%20PUBLISHED-166534?style=for-the-badge" alt="Published"/>
 <br/>
-<font color="#71717A">Repository: </font><font color="#A78BFA">coming_soon...</font>
+
+An educational cybersecurity tool developed in Python to analyze password characteristics, detect predictable patterns and identify common passwords. <br/>
+<div style="white-space: nowrap;">
+<img src="https://img.shields.io/badge/PYTHON-18181B?style=for-the-badge&logo=python&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-18181B?style=for-the-badge&logo=hackthebox&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/PYTEST-18181B?style=for-the-badge&logo=pytest&logoColor=A78BFA" />
+</div>
+
+<br/>
+
+<a href="https://github.com/smpereiras/PasswordAudit">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6D28D9?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View Repository"/>
+</a>
 </p>
 
 <br/>
