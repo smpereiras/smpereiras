@@ -1,9 +1,12 @@
+
 name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -22,14 +25,10 @@ jobs:
           github_user_name: smpereiras
           outputs: |
             dist/github-snake.svg?color_snake=%23A78BFA&color_dots=%2318181B,%233B0764,%236D28D9,%23A78BFA,%23C4B5FD
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish Snake Animation
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: output
-
           publish_branch: output
